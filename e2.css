@@ -1,0 +1,49 @@
+
+h1{
+    color:rgb(255, 0, 0);
+}
+table{
+    height:400px;
+    width: 1340px;
+}
+td{
+    text-align: center;
+}
+#books{
+    box-shadow: 9px 9px 3px black;
+}
+#books:hover{
+    transform: translateY(10px);
+    box-shadow: 5px 20px 17px black;
+}
+h1{
+    text-align: center;
+}
+#logo{
+    margin-left:550px ;
+}
+button{
+    height:40px ;
+    width:100px ;
+    background-color:black;
+    color: rgb(255, 255, 0);
+    font-size: large;
+    
+}
+button:hover{
+    border-radius:20px ;
+    background-color:yellow;
+    color:black ;
+}
+body{
+    text-transform: capitalize;
+}
+
+
+
+
+
+
+
+
+

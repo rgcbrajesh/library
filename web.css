@@ -1,0 +1,240 @@
+
+
+#maindiv {
+  height: 630px;
+  width: 1340px;
+  border: solid black 3px;
+background-color:rgb(246, 244, 244) ;
+}
+
+#login {
+  height: 600px;
+  width: 300px;
+  border: groove black 3px;
+  margin-left: 10px;
+  margin-top: 10px;
+  border-radius: 15px 15px 15px 15px;
+}
+
+#circle {
+
+  /* border: solid black 3px; */
+  height: 150px;
+  width: 150px;
+  margin-left: 70px;
+  margin-top: 20px;
+  border-radius: 100%;
+}
+
+#button1 {
+  height: 40px;
+  width: 100px;
+  margin-left: 100px;
+  margin-top: 30px;
+}
+
+#button2 {
+  height: 40px;
+  width: 115px;
+  margin-left: 90px;
+  margin-top: 30px;
+}
+
+#button3 {
+  height: 40px;
+  width: 130px;
+  margin-left: 80px;
+  margin-top: 30px;
+}
+
+#button4 {
+  height: 40px;
+  width: 145px;
+  margin-left: 70px;
+  margin-top: 30px;
+}
+
+#button5 {
+  height: 40px;
+  width: 170px;
+  margin-left: 58px;
+  margin-top: 30px;
+}
+
+#DIV2 {
+  border: solid black 3px;
+  height: 300px;
+  width: 970px;
+  float: right;
+  margin-top: 10px;
+  margin-right: 25px;
+  border-radius: 10px;
+}
+
+#details {
+  border: solid black 3px;
+  height: 250px;
+  width: 450px;
+  margin-top: 22px;
+  margin-left: 10px;
+
+}
+
+#book1 {
+  height: 225px;
+  width: 150px;
+  border: solid black 3px;
+  margin-top: 10px;
+
+  background-image: url("/251w-ujD6UPGa9hw.webp");
+}
+
+#book1:hover {
+  height: 225px;
+  width: 155px;
+  box-shadow: 5px 5px 7px black;
+}
+
+#book3:hover {
+  height: 205px;
+  width: 155px;
+  box-shadow: 5px 5px 7px black;
+}
+
+
+#book2 {
+  height: 150px;
+  height: 250px;
+  width: 350px;
+  float: right;
+  margin-right: 70px;
+}
+
+
+#book3 {
+  height: 200px;
+  width: 150px;
+  border: solid black 3px;
+  margin-left: 20px;
+  background-image: url("/251w-ujD6UPGa9hw.webp");
+}
+
+#topbox {
+  height: 290px;
+  width: 970px;
+  border: solid black 3px;
+  margin-top: 30px;
+  border-radius: 0px;
+}
+
+
+#topbook {
+  height: 30px;
+  width: 950px;
+  margin-top: 10px;
+  margin-left: 5px;
+  border: solid black 3px;
+  font-size: 20px;
+  text-align: center;
+}
+
+#logo {
+  margin-top: 29px;
+  margin-left: 15px;
+  height:110px;
+  width: 150px;
+  border-radius: 90%;
+}
+
+button {
+  background-color: black;
+  border: none;
+  font-size: large;
+  color: yellow;
+}
+
+button:hover {
+  background-color: yellow;
+  color: black;
+  background-image: none;
+}
+
+#allbook {
+  margin-top: 12px;
+  height: 235px;
+  width: 945px;
+}
+
+#maths {
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 15px;
+  height: 180px;
+  width: 130px;
+}
+
+#maths2 {
+  margin-right: 20px;
+  margin-left: 15px;
+  height: 190px;
+  width: 140px;
+}
+
+#maths3 {
+  margin-right: 20px;
+  margin-left: 15px;
+  height: 210px;
+  width: 150px;
+}
+
+#maths4 {
+  margin-right: 20px;
+  margin-left: 15px;
+  height: 190px;
+  width: 140px;
+}
+
+#maths5 {
+  margin-right: 20px;
+  margin-left: 10px;
+  height: 180px;
+  width: 130px;
+}
+
+img:hover {
+  transform: translateY(10px);
+  box-shadow: 7px 7px 9px black;
+}
+
+a {
+  text-decoration: none;
+  color: yellow;
+  background-color: black;
+
+}
+
+a:hover {
+  color: black;
+  background-color: yellow;
+}
+
+button::after {
+  content: '';
+  display: block;
+  width: 0;
+  height: 4px;
+  background: black;
+  transition: width .5s;
+}
+
+button:hover::after {
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
